@@ -1,5 +1,5 @@
-StanfordLucy
-============
+"Lucy" from The Stanford 3D Scanning Repository
+===============================================
 
 This is a Unity project set up for testing [anavriN's Lucy statue model]
 [AnavriN], which was originally scanned by [Stanford University Computer
