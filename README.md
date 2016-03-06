@@ -5,9 +5,7 @@ This is a Unity project set up for testing [anavriN's Lucy statue model]
 [AnavriN], which was originally scanned by [Stanford University Computer
 Graphics Laboratory][Stanford].
 
-![screenshot][Image1]
-
-![screenshot][Image2]
+![screenshot][Image]
 
 How To Setup
 ------------
@@ -25,5 +23,4 @@ instructions bellow to recreate the project on your environment.
 
 [AnavriN]: https://www.cgtrader.com/free-3d-models/character-people/fantasy/lucy-a-christian-angel-statue
 [Stanford]: http://graphics.stanford.edu/data/3Dscanrep/
-[Image1]: http://41.media.tumblr.com/ec49a67adff70d7653eead0534f80baf/tumblr_o3maouFDLE1qio469o1_400.png
-[Image2]: http://40.media.tumblr.com/761fddf082757c8c99e659c9109cb397/tumblr_o3maouFDLE1qio469o2_640.png
+[Image]: https://40.media.tumblr.com/035b836124289eb07800937d75efe031/tumblr_o3mhptBGol1qio469o1_1280.png
